@@ -30,7 +30,7 @@ Colección de cinco ejercicios prácticos de optimización y análisis de algori
 ## Instalación
 
 ```bash
-git clone https://github.com/<usuario>/Tarea_2_AO.git
+git clone https://github.com/ViiiiicC0/Tarea_2_AO.git
 cd Tarea_2_AO
 python -m venv .venv
 # Windows
