@@ -77,14 +77,12 @@ Tarea_2_AO/
 │   ├── ejercicio3_2opt.py
 │   ├── ejercicio4_sa.py
 │   └── ejercicio5_mst.py
-├── graficas/
-│   ├── ejercicio1_speedup.png
-│   ├── ejercicio2_knapsack.png
-│   ├── ejercicio3_2opt.png
-│   ├── ejercicio4_sa.png
-│   └── ejercicio5_mst.png
-└── reporte/
-    └── Reporte_Final.pdf
+└── graficas/
+    ├── ejercicio1_speedup.png
+    ├── ejercicio2_knapsack.png
+    ├── ejercicio3_2opt.png
+    ├── ejercicio4_sa.png
+    └── ejercicio5_mst.png
 ```
 
 ## Gráficas
@@ -99,5 +97,5 @@ Tarea_2_AO/
 
 ## Reporte
 
-El análisis completo, la metodología y las conclusiones están en
-[`reporte/Reporte_Final.pdf`](reporte/Reporte_Final.pdf).
+El análisis completo, la metodología y las conclusiones se entregan en un PDF
+por separado; ese archivo no forma parte de este repositorio.
